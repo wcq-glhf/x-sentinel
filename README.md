@@ -1,8 +1,9 @@
-# X-Sentinel
+<img width="2560" height="1305" alt="ScreenShot_2026-03-25_211150_283" src="https://github.com/user-attachments/assets/3a68e9bb-e553-46da-a6ec-1161700a8c72" /><img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/40b22f37-fa87-4cfa-9907-5d69ab00645e" /># X-Sentinel
 
 > 加密市场哨兵系统 — Powered by OKX Agent Trade Kit
 
-![X-Sentinel Screenshot](./screenshot.png)
+<img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/3682a79c-21c7-46e8-83ce-49ccdbb0322b" />
+
 
 ## 简介
 
