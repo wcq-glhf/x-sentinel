@@ -48,51 +48,6 @@ OKX Agent Trade Kit (83 tools)
 generateResponse() → 结构化回复
 ```
 
-## 快速部署
-
-### 前置要求
-- Node.js >= 18
-- OKX Agent Trade Kit (`okx` CLI)
-
-### 安装
-
-```bash
-git clone https://github.com/wcq-glhf/x-sentinel.git
-cd x-sentinel
-
-# 后端
-cd backend && npm install
-
-# 前端
-cd ../frontend && npm install && npm run build
-```
-
-### 启动
-
-```bash
-# 使用 PM2 守护进程
-npm install -g pm2
-pm2 start backend/server.js --name x-sentinel-backend
-pm2 start npm --name x-sentinel-frontend -- run dev -- --host
-pm2 save
-```
-
-或直接运行：
-
-```bash
-bash start.sh
-```
-
-### 访问
-
-```
-http://localhost:5174
-```
-
-## 环境变量
-
-后端默认运行在 `3456` 端口，前端 `5174` 端口。
-
 ## 支持的查询示例
 
 | 输入 | 功能 |
